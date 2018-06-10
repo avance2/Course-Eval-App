@@ -38,7 +38,7 @@
     "y": -726
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,9 +58,37 @@
     {
       "class": "bitmap",
       "id": "2C80FA0B-4133-4191-8038-05E9EEC2E2D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D650726B-956E-43DF-995A-7D3CE6D232C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8678DBB6-831E-417E-9065-A47979E631DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A0B0FCE-084A-4343-8CF5-B7C5A601AA7B"
+    },
+    {
+      "class": "text",
+      "id": "15848CB3-B158-4F3C-9E50-1F5254054749"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "494DA485-672A-4CFA-8F99-385FDAE07DCD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E8FE26F-11D3-4F21-8C5F-6900A93DCFBA"
+    },
+    {
+      "class": "group",
+      "id": "00291321-934F-4525-8CD4-C97E0E689972"
     }
   ],
-  "name": "Canvas Grade",
+  "name": "Canvas Grade Complete",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

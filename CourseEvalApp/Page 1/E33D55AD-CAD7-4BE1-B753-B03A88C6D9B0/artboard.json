@@ -58,9 +58,29 @@
     {
       "class": "bitmap",
       "id": "2F676320-AAD4-448E-8690-9E64286FDBDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33404F33-57C1-4124-9590-FAE446326112"
+    },
+    {
+      "class": "group",
+      "id": "338EC9C3-149B-40FC-B90D-EBE27208BEB2"
+    },
+    {
+      "class": "text",
+      "id": "3401BFED-9B3B-454A-B594-4448A12390CF"
+    },
+    {
+      "class": "text",
+      "id": "92907CC2-814C-47D9-96EB-3CA7AE6B6722"
+    },
+    {
+      "class": "text",
+      "id": "BD129603-49F1-4F1F-8634-9832E207BBBC"
     }
   ],
-  "name": "Canvas Detail",
+  "name": "Canvas Detail Non-Submit",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

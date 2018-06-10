@@ -45,22 +45,6 @@
     {
       "class": "bitmap",
       "id": "7F91F4C0-3564-431B-A5CC-BC85FDF4BDFE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3200ECAE-087C-448E-9C99-9E23BCE35FE8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CB5A132D-D806-4F49-9D5C-C12DEC07A63E"
-    },
-    {
-      "class": "text",
-      "id": "4A62F433-6744-45C6-A0EC-FF8DE510C0AF"
-    },
-    {
-      "class": "text",
-      "id": "83DF9548-BD01-4C2B-8474-812AB2EB58FF"
     }
   ],
   "name": "Canvas Insporation",

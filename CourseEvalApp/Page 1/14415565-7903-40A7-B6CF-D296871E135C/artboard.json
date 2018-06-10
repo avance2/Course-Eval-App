@@ -38,7 +38,7 @@
     "y": -726
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,6 +58,34 @@
     {
       "class": "bitmap",
       "id": "2F9DD7F7-C99A-42CD-97F7-59BB88A7119E"
+    },
+    {
+      "class": "group",
+      "id": "8E411340-3561-4D57-8F9B-04B94F31DB42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC6C2E9F-79C9-4C60-9CB8-A3F33EDEF32F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52394BB1-1B28-4E0D-AA6C-4F87F8DF12DB"
+    },
+    {
+      "class": "text",
+      "id": "306F80D1-036F-49B3-8830-33CD2E4EC976"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30947E93-60B1-43CD-8839-35A87E57C09D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5581B66-73CC-4E99-A3F4-E8CB9F7F88B2"
+    },
+    {
+      "class": "text",
+      "id": "8340A9DD-EAF2-45F4-8745-17AC956527C8"
     }
   ],
   "name": "Canvas Submission",

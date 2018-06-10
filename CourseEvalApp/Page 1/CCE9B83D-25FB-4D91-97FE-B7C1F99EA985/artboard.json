@@ -38,7 +38,7 @@
     "y": -734
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,6 +58,10 @@
     {
       "class": "bitmap",
       "id": "199855F0-B724-49B8-85AB-BB743428AC67"
+    },
+    {
+      "class": "group",
+      "id": "E7D82E84-B68C-403D-82FC-BEDDEF522795"
     }
   ],
   "name": "Canvas Home",

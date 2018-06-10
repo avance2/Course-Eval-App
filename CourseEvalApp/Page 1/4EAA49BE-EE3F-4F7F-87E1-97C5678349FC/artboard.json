@@ -53,11 +53,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
       "id": "0155292F-9310-4194-AB58-6E5B166F2CA3"
+    },
+    {
+      "class": "text",
+      "id": "864F0A4B-FCB8-48B6-8851-3C76AAB0B1AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B516FE49-2DA8-42EC-A507-700304EC6FFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "102626EB-7A73-4D53-880B-54D191B03484"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F468A45C-B20F-4FF7-B093-482D3FA2C9DE"
     }
   ],
   "name": "Canvas Class Home",

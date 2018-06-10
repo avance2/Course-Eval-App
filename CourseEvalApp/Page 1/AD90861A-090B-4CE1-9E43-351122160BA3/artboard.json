@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9558620323129252,
+    "do_objectID": "937024EC-DAFC-4792-B374-60124F8A272B",
+    "green": 0.9558620323129252,
+    "red": 0.9558620323129252
+  },
+  "do_objectID": "AD90861A-090B-4CE1-9E43-351122160BA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CD9E801-6D4D-4FF8-A8B1-44564C28793F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7522FD89-AE17-4149-936E-3CB5C99CA7D5",
+    "height": 556,
+    "width": 320,
+    "x": 2355,
+    "y": -1342
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4EB9A583-D27C-44E2-B9E2-5E29DC2C4F4D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "9C411426-00BB-46F1-907C-D8D67A15671B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD2A4B2D-049A-4CD8-B404-E7AA22034348"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F0A03DF-BE86-4C53-BCCC-096968E89D54"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CE34392-2C1A-4ED7-A33C-C5AFE1AA5793"
+    },
+    {
+      "class": "text",
+      "id": "8CAC231E-E48D-472A-9AC1-A8B5BA755DC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "073AF8FD-BA6B-437D-95F5-EBEE7BC5CD73"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE3F95AF-2F6E-4955-8E44-AB40374E8819"
+    },
+    {
+      "class": "group",
+      "id": "EDE42A61-A855-4D03-898E-06390379C2DA"
+    }
+  ],
+  "name": "Canvas Grade NA",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 320,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 568
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28A9DBCD-77A4-41D2-AAF6-255A4AFA0135",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AE912A87-191A-44A1-BE79-663C245B64B9",
+    "guides": [
+    ]
+  }
+}

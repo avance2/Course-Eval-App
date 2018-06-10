@@ -53,11 +53,103 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
       "id": "4F539B26-EB1E-48E2-89E9-22C51D2F008D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9E69AD4-6385-48D3-84A6-9F608452C4E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C49D6D5-672D-4EA5-878F-1BEFF25C9CFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28BBEE9A-8465-495E-B3D7-4929F2C94B84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FE9DC1F-3B07-437B-80D5-A7381335DB84"
+    },
+    {
+      "class": "text",
+      "id": "888DB663-366C-45DD-8EA8-4E93A829C824"
+    },
+    {
+      "class": "text",
+      "id": "719B0E24-82D0-467F-8302-0A091438DA99"
+    },
+    {
+      "class": "text",
+      "id": "299B4726-E1C3-4AA9-A072-AC89787B6C6A"
+    },
+    {
+      "class": "text",
+      "id": "8BDEFE43-5A1E-4F3A-A594-FA53D5E30100"
+    },
+    {
+      "class": "text",
+      "id": "6958B6FC-8241-4952-8E69-4983A2BB3057"
+    },
+    {
+      "class": "text",
+      "id": "83F65094-69F8-408D-8501-07CE0E06E5B1"
+    },
+    {
+      "class": "text",
+      "id": "AEB6E0A7-694F-4FAD-9E9B-B7B737F56709"
+    },
+    {
+      "class": "text",
+      "id": "66D73A52-CFFD-44E2-95EE-3A9E68A65D68"
+    },
+    {
+      "class": "text",
+      "id": "54D7CD25-B4E3-4357-8866-DB9BC0F86BF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CAE3FEA3-CCD6-426D-8738-87E935990FE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70FB0686-5C06-458F-BFE2-BD0C3EE0A1E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EB7A5E3-F8E5-4E7B-AC59-FB78C530069C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3F8B45C-5ED9-49E1-8379-F6974734BEE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60B774E5-DA7F-461C-B128-1909D8537138"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BF86822-49B9-4DB0-8165-CAD4111757C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "037719E0-BB66-4D2E-87EA-437FF3B87DA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7BD2AEC-86D1-4537-8B61-5CAF4FAC512E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68A3C2BB-EBFF-4AAC-874B-07B0FE19252F"
+    },
+    {
+      "class": "text",
+      "id": "79E479ED-6185-4C3C-B0FB-F49E0D96894F"
     }
   ],
   "name": "Canvas Assignment",

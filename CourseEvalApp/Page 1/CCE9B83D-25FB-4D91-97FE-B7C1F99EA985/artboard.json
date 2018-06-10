@@ -4,12 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.9558620323129252,
+    "do_objectID": "B73CD167-39E2-44A5-A1CC-7DC6845B2BEB",
     "green": 0.9558620323129252,
     "red": 0.9558620323129252
   },
-  "do_objectID": "9A4398B8-355F-4B2D-BE2B-1DEDB4FE2474",
+  "do_objectID": "CCE9B83D-25FB-4D91-97FE-B7C1F99EA985",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "45BD979D-0B18-497D-8A08-F23E38B82429",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -29,16 +31,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 512,
+    "do_objectID": "2AC6B7DD-425B-4B70-9A1E-6586FF0C7C54",
+    "height": 564,
     "width": 320,
     "x": 245,
-    "y": 102
+    "y": -734
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "37F1DFF2-88D6-430F-B38E-62F68F77D1BD",
     "guides": [
     ]
   },
@@ -49,34 +53,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "93C58D4B-C6A7-413F-91C1-0F880907371B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "285B41B1-E364-4A45-A93B-EE446DBDD2FE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C5A8817F-8247-4E62-9E1C-A7FB9E14604E"
-    },
-    {
-      "class": "text",
-      "id": "CF4A98B1-9A33-4435-A133-5AF71B145603"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "04C4083F-BF1A-4A7F-BF4E-30C44B5D29FA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6194242D-388A-4A5D-8EE2-4458F830414B"
+      "class": "bitmap",
+      "id": "199855F0-B724-49B8-85AB-BB743428AC67"
     }
   ],
-  "name": "Login",
+  "name": "Canvas Home",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -92,6 +76,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "89DD53A4-301A-44DA-B8F6-FC6703E72CB0",
     "endDecorationType": 0,
     "fills": [
       {
@@ -117,6 +102,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "24F9895A-2C19-4128-8430-4D6D9EE67B21",
     "guides": [
     ]
   }

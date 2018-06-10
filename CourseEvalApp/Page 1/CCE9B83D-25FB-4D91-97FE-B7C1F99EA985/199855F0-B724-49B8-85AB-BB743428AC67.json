@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "199855F0-B724-49B8-85AB-BB743428AC67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14789795-1A18-4E22-9C82-5CDA409C3443",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0B55446B-6EFF-44CE-B3A4-05A0662C8B7F",
+    "height": 578,
+    "width": 324,
+    "x": 0,
+    "y": -14
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/6aa6197ebc642ff7047c49a28b4b629fbd4d773a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "IMG_8716 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17EA57AE-4725-4A58-AD72-E1368951B1AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

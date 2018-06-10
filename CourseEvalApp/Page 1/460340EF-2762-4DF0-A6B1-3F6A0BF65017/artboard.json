@@ -4,12 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.9558620323129252,
+    "do_objectID": "78B4B199-980F-46CF-A747-B47C3493C3A1",
     "green": 0.9558620323129252,
     "red": 0.9558620323129252
   },
-  "do_objectID": "9A4398B8-355F-4B2D-BE2B-1DEDB4FE2474",
+  "do_objectID": "460340EF-2762-4DF0-A6B1-3F6A0BF65017",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9D2EF738-ECE5-4354-91F7-08511726771F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -29,16 +31,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 512,
+    "do_objectID": "FDE7F6F9-D13E-4D47-AF6D-FAA5AB815245",
+    "height": 556,
     "width": 320,
-    "x": 245,
-    "y": 102
+    "x": 2355,
+    "y": -726
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "A3505167-6A86-48AE-AC81-0B15B6CAD970",
     "guides": [
     ]
   },
@@ -49,34 +53,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "93C58D4B-C6A7-413F-91C1-0F880907371B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "285B41B1-E364-4A45-A93B-EE446DBDD2FE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C5A8817F-8247-4E62-9E1C-A7FB9E14604E"
-    },
-    {
-      "class": "text",
-      "id": "CF4A98B1-9A33-4435-A133-5AF71B145603"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "04C4083F-BF1A-4A7F-BF4E-30C44B5D29FA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6194242D-388A-4A5D-8EE2-4458F830414B"
+      "class": "bitmap",
+      "id": "2C80FA0B-4133-4191-8038-05E9EEC2E2D9"
     }
   ],
-  "name": "Login",
+  "name": "Canvas Grade",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -92,6 +76,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "AD2557D1-AC73-45F9-B8E9-43C7A94C751F",
     "endDecorationType": 0,
     "fills": [
       {
@@ -117,6 +102,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "3E234C93-5864-4036-AAB8-2A55BF7F49FC",
     "guides": [
     ]
   }

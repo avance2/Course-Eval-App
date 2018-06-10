@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "365C42B5-5F5D-4579-8A19-EC35D31D6AB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 123,
+    "x": 30,
+    "y": 141
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/button",
+  "nameIsFixed": false,
+  "originalObjectID": "7061F2E8-866E-4DEE-AD2F-9BCD9C771709",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2371ECC-18B9-4E13-8ECF-A25DA333B2F7",
+      "overrideName": "C71C3367-49BE-448F-89F4-80025931F78D/4CEB437F-5633-457D-9CB8-359456165099_stringValue",
+      "value": "View Past"
+    }
+  ],
+  "overrides": {
+    "C71C3367-49BE-448F-89F4-80025931F78D": {
+      "4CEB437F-5633-457D-9CB8-359456165099": "View Past"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5B66F0F8-5BA5-4A85-B188-0EDA004E96F5",
+  "verticalSpacing": 0
+}

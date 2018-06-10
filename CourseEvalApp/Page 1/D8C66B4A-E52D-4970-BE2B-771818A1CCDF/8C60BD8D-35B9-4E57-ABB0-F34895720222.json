@@ -37,11 +37,6 @@
       "value": "View Past"
     }
   ],
-  "overrides": {
-    "C71C3367-49BE-448F-89F4-80025931F78D": {
-      "4CEB437F-5633-457D-9CB8-359456165099": "View Past"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

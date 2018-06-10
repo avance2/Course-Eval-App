@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "08F45096-9E5E-4C20-966A-632D6CA09341",
+  "do_objectID": "6161E05F-83E5-43FB-925A-5172E65CEB54",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "444D42DE-F293-455C-8863-66826E7BBEB9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 83,
+    "do_objectID": "0A6B515B-454B-46E3-A7CA-EE2CCE733CEB",
+    "height": 63,
     "width": 294,
-    "x": 13,
-    "y": 239
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +31,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "7A66A1A4-4AF4-4DD7-AD56-DBF5268B2358"
+      "id": "11EC4006-EC4E-4D40-974C-94D11E12A97B"
     }
   ],
-  "name": "Base",
+  "name": "Base Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9333333333333333,
-          "green": 0.9176470588235294,
-          "red": 0.9019607843137255
+          "blue": 0.04313725490196076,
+          "green": 0.788235294117647,
+          "red": 0.615686274509804
         },
         "fillType": 0,
         "isEnabled": true,
@@ -56,6 +58,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "575578F6-1AE1-4419-A992-0B3F5FC8E66C",
     "endDecorationType": 0,
     "fills": [
       {

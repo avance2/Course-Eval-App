@@ -35,9 +35,6 @@
       "value": "SID/User Name"
     }
   ],
-  "overrides": {
-    "832CF9E2-411D-436F-AA24-3E8CD0595486": "SID/User Name"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

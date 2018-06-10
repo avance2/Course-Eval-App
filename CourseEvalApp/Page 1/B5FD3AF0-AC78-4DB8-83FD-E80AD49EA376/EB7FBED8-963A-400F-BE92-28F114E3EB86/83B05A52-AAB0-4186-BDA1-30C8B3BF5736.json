@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGn6BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLAcIERIYIyQlJjIzNDU2Nzg5OkBGSUxPU1tcXV5fYmZwfH1+f4OGjo+Qk5ebVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoApgAOAK18QHUZhbGwgMjAxNyB8IFAuIENvbGluIE1hbmlrb3Ro0hMMFBdaTlMub2JqZWN0c6IVFoAEgB6AKNMZEwwaHiJXTlMua2V5c6MbHB2ABYAGgAejHyAhgAiAEoAWgBFfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMZEwwnLCKkKCkqK4AJgAqAC4AMpC0uLzCADYAOgA+AEIARU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/f39/f46W4Iz/wAAAAAAAAIz/klJSUlE+XIz/h8fHx7nEX0js8PT5aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPT9YTlNPYmplY3TTQQxCQ0RFXE5TVGV4dEJsb2Nrc1pOU1RhYlN0b3BzgBOAFYAA0hMMR0iggBTSOzxKS1dOU0FycmF5oko/0js8TU5fEBBOU1BhcmFncmFwaFN0eWxlok0/0gxQUVJfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AdgBfTGRMMVFdaolVWgBiAGaJYWYAagBuAHF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXxAVU291cmNlU2Fuc1Byby1SZWd1bGFy0js8YGFfEBNOU011dGFibGVEaWN0aW9uYXJ5o2A9P9I7PGNkXxAQTlNGb250RGVzY3JpcHRvcqJlP18QEE5TRm9udERlc2NyaXB0b3LTGRMMZ2sioxscHYAFgAaAB6NsbW6AH4AjgCSAEdMZEwxxdiKkKCkqK4AJgAqAC4AMpHcueXqAIIAOgCGAIoARIz/f39/f46W4Iz/klJSUlE+XIz/h8fHx7nEX00EMQkNERYATgBWAANIMUFGFgB2AJdMZEwyHilqiVVaAGIAZoouMgCaAJ4AcI0AoAAAAAAAAXxATU291cmNlU2Fuc1Byby1MaWdodNI7PJGSXk5TTXV0YWJsZUFycmF5o5FKP9KUDJWWV05TLmRhdGFEDAARAYAq0js8mJldTlNNdXRhYmxlRGF0YaOYmj9WTlNEYXRh0js8nJ1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeinj9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRoaJUcm9vdIABAAgAEQAaACMALQAyADcAZgBsAHUAfgCQAJ0ApACmAKgAqgCsAMwA0QDcAN8A4QDjAOUA7AD0APgA+gD8AP4BAgEEAQYBCAEKATcBSgFsAXMBeAF6AXwBfgGAAYUBhwGJAYsBjQGPAZMBmQGeAaQBrQG2Ab8ByAHNAdgB4QHuAfEB+gIBAg4CGQIbAh0CHwIkAiUCJwIsAjQCNwI8Ak8CUgJXAnQCdgJ4An8CggKEAoYCiQKLAo0CjwKlArsCxALcAuEC9wL7AwADEwMWAykDMAM0AzYDOAM6Az4DQANCA0QDRgNNA1IDVANWA1gDWgNfA2EDYwNlA2cDaQNyA3sDhAOLA40DjwORA5YDmAOaA6EDpAOmA6gDqwOtA68DsQO6A9AD1QPkA+gD7QP1A/oD/AQBBA8EEwQaBB8ENAQ3BEwEXgRhBGYAAAAAAAACAQAAAAAAAACjAAAAAAAAAAAAAAAAAAAEaA=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6431372549,
+            "green": 0.5607843137,
+            "red": 0.4980392157
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 12,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6431372549,
+            "green": 0.5607843137,
+            "red": 0.4980392157
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Light",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 17,
+        "location": 12
+      }
+    ],
+    "string": "Fall 2017 | P. Colin Manikoth"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "83B05A52-AAB0-4186-BDA1-30C8B3BF5736",
@@ -51,17 +103,24 @@
       "_class": "textStyle",
       "do_objectID": "FD2EA512-0A50-4230-A5BF-1AD455899EA6",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.6431372549,
           "green": 0.5607843137,
           "red": 0.4980392157
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF8QFVNvdXJjZVNhbnNQcm8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDrAPAA+wEEARoBHgErATQBOQFMAU8BYgF0AXcBfAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF+"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 14
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHB1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCA8TGVUkbnVsbNMJCgsMDQ5cTlNUZXh0QmxvY2tzViRjbGFzc1pOU1RhYlN0b3BzgAKABIAA0hAKERJaTlMub2JqZWN0c6CAA9IUFRYXWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIWGFhOU09iamVjdNIUFRobXxAQTlNQYXJhZ3JhcGhTdHlsZaIaGF8QD05TS2V5ZWRBcmNoaXZlctEeH1Ryb290gAEIERojLTI3PUNKV15pa21vdH+AgoeSm6Omr7THytzf5AAAAAAAAAEBAAAAAAAAACAAAAAAAAAAAAAAAAAAAADm"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

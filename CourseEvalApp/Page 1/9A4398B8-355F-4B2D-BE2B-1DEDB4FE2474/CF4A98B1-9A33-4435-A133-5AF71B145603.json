@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGmJlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJQcIERIYIyQlJjIzNDU2Nzg+RklMUFRcXV5fYGNncX2AiImMkJRVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCKAA4AkXxCGV2VsY29tZSB0byBDb3Vyc2UgRXZhbCEKUGxlYXNlIHNpZ24gaW4gdXNpbmcgeW91ciBzdHVkZW50IElEIG9yIHVzZXIgbmFtZSBhbmQgcGFzc3dvcmQgdG8gZ2V0IHN0YXJ0ZWQgb24gYW4gZXZhbCBvciByZXZpZXcgcGFzdCBldmFscy7SEwwUF1pOUy5vYmplY3RzohUWgASAHIAh0xkTDBoeIldOUy5rZXlzoxscHYAFgAaAB6MfICGACIAQgBSAD18QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xkTDCcsIqQoKSorgAmACoALgAykLS4tLYANgA6ADYANgA9TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAADSOTo7PFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI7PVhOU09iamVjdNQ/DEBBQkNERFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAgBOAEYAR0hMMR0iggBLSOTpKS1dOU0FycmF5oko90jk6TU5fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNNTz1fEBBOU1BhcmFncmFwaFN0eWxl0gxRUlNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AbgBXTGRMMVVhbolZXgBaAF6JZWoAYgBmAGl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXxASU291cmNlU2Fuc1Byby1Cb2xk0jk6YWJfEBNOU011dGFibGVEaWN0aW9uYXJ5o2E7PdI5OmRlXxAQTlNGb250RGVzY3JpcHRvcqJmPV8QEE5TRm9udERlc2NyaXB0b3LTGRMMaGwioxscHYAFgAaAB6NtIG+AHYAQgB6AD9MZEwxydyKkKCkqK4AJgAqAC4AMpC0uLS2ADYAOgA2ADYAP0gxRUn+AG4Af0xkTDIGEW6JWV4AWgBeiWYaAGIAggBpfEBNTb3VyY2VTYW5zUHJvLUxpZ2h00jk6ioteTlNNdXRhYmxlQXJyYXmjiko90o0Mjo9XTlMuZGF0YUQXAG8BgCPSOTqRkl1OU011dGFibGVEYXRho5GTPVZOU0RhdGHSOTqVll8QEk5TQXR0cmlidXRlZFN0cmluZ6KXPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGam1Ryb290gAEACAARABoAIwAtADIANwBfAGUAbgB3AIkAlgCdAJ8AoQCjAKUBLgEzAT4BQQFDAUUBRwFOAVYBWgFcAV4BYAFkAWYBaAFqAWwBmQGsAc4B1QHaAdwB3gHgAeIB5wHpAesB7QHvAfEB9QH7AgACBgIPAhgCHQIoAjECPgJBAkoCUwJeAmsCdwJ5AnsCfQJ/AoQChQKHAowClAKXApwCtgK6As0C0gLvAvEC8wL6Av0C/wMBAwQDBgMIAwoDIAM2Az8DVANZA28DcwN4A4sDjgOhA6gDrAOuA7ADsgO2A7gDugO8A74DxQPKA8wDzgPQA9ID1wPZA9sD3QPfA+ED5gPoA+oD8QP0A/YD+AP7A/0D/wQBBBcEHAQrBC8ENAQ8BEEEQwRIBFYEWgRhBGYEewR+BJMEpQSoBK0AAAAAAAACAQAAAAAAAACcAAAAAAAAAAAAAAAAAAAErw=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 23,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Light",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 111,
+        "location": 23
+      }
+    ],
+    "string": "Welcome to Course Eval!\nPlease sign in using your student ID or user name and password to get started on an eval or review past evals."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CF4A98B1-9A33-4435-A133-5AF71B145603",
@@ -47,17 +99,24 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0,
           "green": 0,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF8QElNvdXJjZVNhbnNQcm8tQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Bold",
+            "size": 18
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxweGl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRISJUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAEwAVwBeAGsAdwB5AHsAfQB/AIQAjwCQAJIAlwCiAKsAswC2AL8AxADeAOIA9QEHAQoBDwAAAAAAAAIBAAAAAAAAACMAAAAAAAAAAAAAAAAAAAER"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

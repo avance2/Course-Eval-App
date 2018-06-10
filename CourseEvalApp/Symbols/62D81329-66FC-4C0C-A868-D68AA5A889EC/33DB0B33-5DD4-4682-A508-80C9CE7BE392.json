@@ -1,10 +1,140 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGmJlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJQcIERIYIyQlJjIzNDU2Nzg+RklMUFRcXV5fYGNncX2AiImMkJRVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCKAA4AkXxC3WW91IGhhdmUgYSBtYXhpbXVtIG9mIHRocmVlIGV2YWx1YXRpb25zIGZvciB0aGlzIGNvdXJzZSBwZXIgcXVhcnRlci4gCllvdSBoYXZlIHR3byBldmFsdWF0aW9ucyByZW1haW5pbmcsIHdvdWxkIHlvdSBsaWtlIHRvIHN0YXJ0IGEgbmV3IG9uZSBvciByZXZpZXcgcHJldmlvdXNseSBzdWJtaXR0ZWQgZXZhdWxhdGlvbnM/0hMMFBdaTlMub2JqZWN0c6IVFoAEgByAIdMZEwwaHiJXTlMua2V5c6MbHB2ABYAGgAejHyAhgAiAEIAUgA9fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMZEwwnLCKkKCkqK4AJgAqAC4AMpC0uLS2ADYAOgA2ADYAPU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAA0jk6OzxaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiOz1YTlNPYmplY3TUPwxAQUJDRERaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIATgBGAEdITDEdIoIAS0jk6SktXTlNBcnJheaJKPdI5Ok1OXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTU89XxAQTlNQYXJhZ3JhcGhTdHlsZdIMUVJTXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xkTDFVYW6JWV4AWgBeiWVqAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMQAAAAAAAF8QE1NvdXJjZVNhbnNQcm8tTGlnaHTSOTphYl8QE05TTXV0YWJsZURpY3Rpb25hcnmjYTs90jk6ZGVfEBBOU0ZvbnREZXNjcmlwdG9yomY9XxAQTlNGb250RGVzY3JpcHRvctMZEwxobCKjGxwdgAWABoAHo20gb4AdgBCAHoAP0xkTDHJ3IqQoKSorgAmACoALgAykLS4tLYANgA6ADYANgA/SDFFSf4AbgB/TGRMMgYRbolZXgBaAF6JZhoAYgCCAGl8QElNvdXJjZVNhbnNQcm8tQm9sZNI5OoqLXk5TTXV0YWJsZUFycmF5o4pKPdKNDI6PV05TLmRhdGFKFgAFATQAAwFlAIAj0jk6kZJdTlNNdXRhYmxlRGF0YaORkz1WTlNEYXRh0jk6lZZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeilz1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRmptUcm9vdIABAAgAEQAaACMALQAyADcAXwBlAG4AdwCJAJYAnQCfAKEAowClAV8BZAFvAXIBdAF2AXgBfwGHAYsBjQGPAZEBlQGXAZkBmwGdAcoB3QH/AgYCCwINAg8CEQITAhgCGgIcAh4CIAIiAiYCLAIxAjcCQAJJAk4CWQJiAm8CcgJ7AoQCjwKcAqgCqgKsAq4CsAK1ArYCuAK9AsUCyALNAucC6wL+AwMDIAMiAyQDKwMuAzADMgM1AzcDOQM7A1EDZwNwA4YDiwOhA6UDqgO9A8AD0wPaA94D4APiA+QD6APqA+wD7gPwA/cD/AP+BAAEAgQEBAkECwQNBA8EEQQTBBgEGgQcBCMEJgQoBCoELQQvBDEEMwRIBE0EXARgBGUEbQR4BHoEfwSNBJEEmASdBLIEtQTKBNwE3wTkAAAAAAAAAgEAAAAAAAAAnAAAAAAAAAAAAAAAAAAABOY="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Light",
+              "size": 17
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 22,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Bold",
+              "size": 17
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 5,
+        "location": 22
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Light",
+              "size": 17
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 52,
+        "location": 27
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Bold",
+              "size": 17
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 3,
+        "location": 79
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Light",
+              "size": 17
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 101,
+        "location": 82
+      }
+    ],
+    "string": "You have a maximum of three evaluations for this course per quarter. \nYou have two evaluations remaining, would you like to start a new one or review previously submitted evaulations?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "33DB0B33-5DD4-4682-A508-80C9CE7BE392",
@@ -47,17 +177,24 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0,
           "green": 0,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMQAAAAAAAF8QE1NvdXJjZVNhbnNQcm8tTGlnaHTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Light",
+            "size": 17
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxweGl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRISJUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAEwAVwBeAGsAdwB5AHsAfQB/AIQAjwCQAJIAlwCiAKsAswC2AL8AxADeAOIA9QEHAQoBDwAAAAAAAAIBAAAAAAAAACMAAAAAAAAAAAAAAAAAAAER"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0
